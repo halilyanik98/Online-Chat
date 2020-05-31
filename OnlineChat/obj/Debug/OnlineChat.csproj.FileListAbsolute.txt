@@ -1,0 +1,70 @@
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojResolveAssemblyReference.cache
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.GirisSayfasi.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.Cache
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Admin.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kayit.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kisiler.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.onay.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.profil2.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.sifre.resources
+C:\Users\Halil\Desktop\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Sohbet.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojResolveAssemblyReference.cache
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Admin.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.GirisSayfasi.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kayit.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kisiler.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.onay.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.profil2.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.sifre.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Sohbet.resources
+C:\Users\Halil İbrahim Yanık\Desktop\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.Cache
+D:\YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+D:\YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Admin.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.GirisSayfasi.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kayit.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kisiler.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.onay.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.profil2.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.sifre.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Sohbet.resources
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+D:\YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+D:\YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+D:\5-YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+D:\5-YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+D:\5-YanikSoft\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojAssemblyReference.cache
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Admin.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.GirisSayfasi.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kayit.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.kisiler.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.onay.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.profil2.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.sifre.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Sohbet.resources
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.cache
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CoreCompileInputs.cache
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.CopyComplete
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+D:\5-YanikSoft\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
